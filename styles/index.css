@@ -3,7 +3,7 @@ body{
     text-align: center;
 }
 .logo{
-    display: flex;
+    float: left;
     margin-left: 5%;
 }
 .navbar {
